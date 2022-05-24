@@ -26,9 +26,7 @@ button {
   overflow: hidden;
 }
 
-button:focus {
-  outline: none;
-}
+button:focus { outline: none; }
 button:before {
   content: "";
   display: block;
