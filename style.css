@@ -52,7 +52,6 @@ button:after {
   filter: blur(30px);
   transform: translate(-100px) scaleX(-15deg);
 }
-
 button:hover {
   background: #338033;
   cursor: pointer;
