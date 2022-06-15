@@ -39,7 +39,6 @@ button:before {
   filter: blur(30px);
   transform: translateX(-130px) skewX(-15deg);
 }
-
 button:after {
   content: "";
   display: block;
